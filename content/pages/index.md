@@ -64,7 +64,7 @@ sections:
         label: VSCode
         url: ''
       - type: Label
-        label: Swift
+        label: ''
         url: ''
     colors: colors-f
     elementId: ''
