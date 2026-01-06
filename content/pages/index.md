@@ -52,7 +52,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: Next.js
+        label: ''
         url: ''
       - type: Label
         label: Netlify
