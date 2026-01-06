@@ -61,7 +61,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: C++
+        label: VSCode
         url: ''
       - type: Label
         label: Swift
