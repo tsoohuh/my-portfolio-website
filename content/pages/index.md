@@ -58,7 +58,7 @@ sections:
         label: Javascript
         url: ''
       - type: Label
-        label: Pancakes
+        label: C#
         url: ''
       - type: Label
         label: C++
