@@ -22,14 +22,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "https://www.facebook.com/pogimansi/",
-                "icon": "facebook",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/nathan-eduard-romero-86431b382/",
