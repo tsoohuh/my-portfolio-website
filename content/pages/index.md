@@ -106,7 +106,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: Submit 🚀
+      submitLabel: 'Submit '
       styles:
         self:
           textAlign: center
