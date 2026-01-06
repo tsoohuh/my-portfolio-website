@@ -22,14 +22,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "linkedin",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
