@@ -40,7 +40,7 @@ sections:
     actions: []
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: What I learned so far!
     items:
       - type: Label
         label: Python
