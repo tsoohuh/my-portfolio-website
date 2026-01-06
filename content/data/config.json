@@ -30,7 +30,7 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Github",
                 "altText": "",
                 "url": "https://github.com/tsoohuh",
                 "icon": "github",
