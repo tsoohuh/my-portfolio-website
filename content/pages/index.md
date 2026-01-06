@@ -55,7 +55,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: Netlify
+        label: Javascript
         url: ''
       - type: Label
         label: Pancakes
