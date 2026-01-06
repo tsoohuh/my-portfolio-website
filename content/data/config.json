@@ -24,6 +24,14 @@
                 "type": "Social",
                 "label": "Facebook",
                 "altText": "",
+                "url": "www.linkedin.com/in/nathan-eduard-romero-86431b382",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
                 "url": "https://github.com/tsoohuh",
                 "icon": "github",
                 "elementId": ""
