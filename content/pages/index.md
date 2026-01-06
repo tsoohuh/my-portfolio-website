@@ -64,6 +64,9 @@ sections:
         label: VSCode
         url: ''
       - type: Label
+        label: Blender
+        url: ''
+      - type: Label
         label: ''
         url: ''
     colors: colors-f
