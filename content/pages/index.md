@@ -49,7 +49,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: HTML
         url: ''
       - type: Label
         label: Next.js
