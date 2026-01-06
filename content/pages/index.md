@@ -49,7 +49,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: HTML
+        label: HTML/CSS
         url: ''
       - type: Label
         label: ''
