@@ -66,7 +66,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: https://www.linkedin.com/
+            url: https://www.linkedin.com/in/nathan-eduard-romero-86431b382/
         styles:
           self:
             textAlign: left
