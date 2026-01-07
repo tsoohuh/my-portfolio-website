@@ -6,7 +6,7 @@ date: '2022-01-22'
 client: Thesis
 description: >-
   Developed a 2D roguelike game that incorporated MARL, MDP, and PPM to
-  dynamically adjust the difficulty depending on the player's performance.
+  dynamically adjust the difficulty depending on the player's performance. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
