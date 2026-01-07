@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/vrju1i20b2m91.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -47,7 +47,7 @@ topSections:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Let’s talk... 💬
     colors: colors-f
     form:
       type: FormBlock
@@ -86,7 +86,7 @@ bottomSections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit 🚀
       styles:
         self:
           textAlign: center
