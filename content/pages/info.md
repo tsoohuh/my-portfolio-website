@@ -116,6 +116,9 @@ sections:
         label: Git
         url: ''
       - type: Label
+        label: TailwindCSS
+        url: ''
+      - type: Label
         label: Blender
       - type: Label
         label: Unity
