@@ -16,7 +16,8 @@ sections:
     title: Hey, I'm Nathan Eduard Romero!
     subtitle: >-
       I am currently a senior CS student at the University of Santo Tomas -
-      College of Information and Computing Sciences.
+      College of Information and Computing Sciences. Here, I share the things
+      I'm working on. Doing
     styles:
       self:
         height: auto
