@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Financial Management '
+title: Finance Forecasting Dashboard
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
