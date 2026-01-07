@@ -10,7 +10,7 @@ description: >-
   out microservices and Docker containerization (still learning!).
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/fininsights.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
