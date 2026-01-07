@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'FinInsights: Finance Dashboard'
+title: 'FinInsights: Finance Forecasting Dashboard'
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
