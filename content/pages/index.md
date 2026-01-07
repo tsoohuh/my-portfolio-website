@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hi, I'm Nathan Eduard Romero!
+    title: Hey, I'm Nathan Eduard Romero!
     subtitle: >-
       I am currently a senior CS student at the University of Santo Tomas -
       College of Information and Computing Sciences.
