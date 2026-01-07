@@ -121,7 +121,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Want to connect or know more about me?
+    title: Want to connect?
     form:
       type: FormBlock
       elementId: sign-up-form
