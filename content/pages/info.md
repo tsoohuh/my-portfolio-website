@@ -183,18 +183,26 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2022 - 2026**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   BS Computer Science @ University of Santo Tomas - College of
+          Information and Computing Sciences
 
-          * react certificate somewhere
 
-          **2011**
+          **2020 - 2022**
 
-          * my highschool
+
+          *   Science, Technology, Engineering, and Mathematics (STEM) Strand @
+          University of Santo Tomas - Senior High School
+
+
+          **2016 - 2020**
+
+
+          *   University of Santo Tomas - Junior High School
+
         styles:
           self:
             textAlign: left
