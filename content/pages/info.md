@@ -104,7 +104,7 @@ sections:
       - type: Label
         label: HTML/CSS
       - type: Label
-        label: Next.js
+        label: Javascript
       - type: Label
         label: Netlify
       - type: Label
