@@ -65,7 +65,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: VSCode
+        label: ''
         url: ''
       - type: Label
         label: Blender
