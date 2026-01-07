@@ -100,7 +100,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: React
+        label: Java
       - type: Label
         label: Microsoft Office
       - type: Label
