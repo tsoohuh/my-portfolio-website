@@ -39,7 +39,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Fxh1Obl2.jpg
-      altText: altText of the image
+      altText: Portrait of me
       caption: Caption of the image
       elementId: ''
   - type: LabelsSection
