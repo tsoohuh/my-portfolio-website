@@ -190,12 +190,16 @@ sections:
           *   BS Computer Science @ University of Santo Tomas - College of
           Information and Computing Sciences
 
+          *   GPA: 1.75
+
 
           **2020 - 2022**
 
 
           *   Science, Technology, Engineering, and Mathematics (STEM) Strand @
           University of Santo Tomas - Senior High School
+
+          *   Dean's Lister
 
 
           **2016 - 2020**
