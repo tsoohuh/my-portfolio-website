@@ -5,11 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  A financial forecasting web application that combines Next.js frontend, NestJS
-  backend API, and FastAPI machine learning service to analyze transaction data
-  and generate 6-month predictions. Showcases microservices architecture,
-  RESTful API design, database management with PostgreSQL, and practical ML
-  integration using linear regression models.
+  Dipped my toes in creating an app combining Next.js frontend, NestJS backend
+  API, and FastAPI machine learning service to analyze transaction data and
+  generate 6-month predictions. Also tried out microservices and Docker
+  containerization (still learning!).
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
