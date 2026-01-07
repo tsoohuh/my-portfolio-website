@@ -110,7 +110,7 @@ sections:
       - type: Label
         label: VSCode
       - type: Label
-        label: C++
+        label: Blender
       - type: Label
         label: Swift
   - type: DividerSection
