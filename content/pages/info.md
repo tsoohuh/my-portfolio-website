@@ -46,7 +46,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Nathan's CV
         altText: ''
         url: /
         showIcon: true
