@@ -112,7 +112,7 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: Swift
+        label: Unity
   - type: DividerSection
     styles:
       self:
