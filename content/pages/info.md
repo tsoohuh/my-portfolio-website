@@ -58,7 +58,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: https://github.com/
+            url: https://github.com/tsoohuh
         styles:
           self:
             textAlign: left
