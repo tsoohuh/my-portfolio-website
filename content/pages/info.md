@@ -14,13 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey, I’m a curious individual, which led me to being a developer. I
-      enjoy learning about new things and understanding how they work. The
-      internet and its contents are a treasure trove of information, and a
-      curious individual like me is fascinated by it. Passionate about video
-      games, UI/UX, and testing them!
-
-
+      # Hey, I’m a curious individual. I enjoy learning about new things and
+      understanding how they work. The internet and its contents are a treasure
+      trove of information, and a curious individual like me is fascinated by
+      it. Passionate about video games, UI/UX, and testing them!
 
     media:
       type: ImageBlock
