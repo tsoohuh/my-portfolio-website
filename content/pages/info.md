@@ -108,7 +108,7 @@ sections:
       - type: Label
         label: C#
       - type: Label
-        label: Pancakes
+        label: VSCode
       - type: Label
         label: C++
       - type: Label
