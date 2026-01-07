@@ -71,6 +71,9 @@ sections:
         label: Git
         url: ''
       - type: Label
+        label: TailwindCSS
+        url: ''
+      - type: Label
         label: ''
         url: ''
       - type: Label
