@@ -157,7 +157,7 @@ sections:
         - name: updatesConsent
           label: Sign up to receive updates
           isRequired: false
-          width: full
+          width: 1/2
           type: CheckboxFormControl
       submitLabel: 'Submit '
       styles:
