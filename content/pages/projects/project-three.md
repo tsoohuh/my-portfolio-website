@@ -11,7 +11,7 @@ description: >-
   the player's performance for our thesis project. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/dungeon.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

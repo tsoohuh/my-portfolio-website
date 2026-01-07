@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Finance Forecasting Dashboard
+title: 'FinInsights: Finance Forecasting Dashboard'
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
@@ -10,7 +10,7 @@ description: >-
   out microservices and Docker containerization (still learning!).
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/fininsights.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

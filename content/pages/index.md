@@ -65,7 +65,19 @@ sections:
         label: C#
         url: ''
       - type: Label
+        label: SQL
+        url: ''
+      - type: Label
         label: VSCode
+        url: ''
+      - type: Label
+        label: Git
+        url: ''
+      - type: Label
+        label: TailwindCSS
+        url: ''
+      - type: Label
+        label: Docker
         url: ''
       - type: Label
         label: ''
@@ -94,10 +106,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
