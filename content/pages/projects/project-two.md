@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: MV88 Ventures
 description: >-
   Contributed to developing a new inventory management system for our client
-  company that tracked item quantities between their nine warehouse branches
+  company that tracked item quantities between their nine warehouse branches,
   alongside the  elivery status. Couldn't have done it without my team!
 featuredImage:
   type: ImageBlock
