@@ -1,11 +1,14 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: MV88 Ventures Inventory System
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: MV88 Ventures
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Contributed to developing a new inventory management system for our client
+  company that tracked item quantities between their nine warehouse branches,
+  alongside the delivery status between branches and their respective merchants.
+  Couldn't have done it without my team!
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg

@@ -39,7 +39,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Fxh1Obl2.jpg
-      altText: altText of the image
+      altText: Portrait of me
       caption: Caption of the image
       elementId: ''
   - type: LabelsSection
@@ -66,6 +66,9 @@ sections:
         url: ''
       - type: Label
         label: VSCode
+        url: ''
+      - type: Label
+        label: ''
         url: ''
       - type: Label
         label: Blender
@@ -118,7 +121,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Want to connect or know more?
+    title: Want to connect?
     form:
       type: FormBlock
       elementId: sign-up-form

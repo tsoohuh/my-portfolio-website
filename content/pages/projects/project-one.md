@@ -1,11 +1,13 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Finance Forecasting Dashboard
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Dipped my toes in creating an app combining Next.js, NestJS, and a FastAPI
+  machine learning service to analyze data and generate predictions. Also tried
+  out microservices and Docker containerization (still learning!).
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

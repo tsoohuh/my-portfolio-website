@@ -1,11 +1,14 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Dungeon Survivors Game
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Thesis
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Developed a 2D roguelike game that incorporated Multi-Agent Reinforcement
+  Learning, Markov Decision Processes, and Predictive Player Modeling to
+  dynamically adjust the difficulty, enemy spawns, and weapon drops depending on
+  the player's performance for our thesis project. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
