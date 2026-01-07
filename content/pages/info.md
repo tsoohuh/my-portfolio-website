@@ -40,7 +40,7 @@ sections:
         textAlign: left
     type: HeroSection
   - type: CtaSection
-    title: Let's do this
+    title: My CV/resume
     text: |+
       For the more professional individuals out there...
 
