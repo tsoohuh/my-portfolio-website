@@ -102,7 +102,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Microsoft Office
+        label: HTML/CSS
       - type: Label
         label: Next.js
       - type: Label
