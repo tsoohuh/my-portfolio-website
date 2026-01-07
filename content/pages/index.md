@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       I am currently a senior CS student at the University of Santo Tomas -
       College of Information and Computing Sciences. Here, I share the things
-      I'm working on. Doing
+      I'm working on. Making sure I do it with love.
     styles:
       self:
         height: auto
