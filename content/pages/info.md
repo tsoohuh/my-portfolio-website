@@ -106,7 +106,7 @@ sections:
       - type: Label
         label: Javascript
       - type: Label
-        label: Netlify
+        label: C#
       - type: Label
         label: Pancakes
       - type: Label
