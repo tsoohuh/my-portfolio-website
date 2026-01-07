@@ -14,10 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey, I’m a curious individual, which led me to being a developer. I
+      enjoy learning about new things and understanding how they work. The
+      internet and its contents are a treasure trove of information, and a
+      curious individual like me is fascinated by it. Passionate about video
+      games, UI/UX, and testing them!
+
+
 
     media:
       type: ImageBlock
