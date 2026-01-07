@@ -6,8 +6,8 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   Dipped my toes in creating an app combining Next.js, NestJS, and FastAPI
-  machine learning service to analyze transaction data and generate predictions.
-  Also tried out microservices and Docker containerization (still learning!).
+  machine learning service to analyze data and generate predictions. Also tried
+  out microservices and Docker containerization (still learning!).
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
