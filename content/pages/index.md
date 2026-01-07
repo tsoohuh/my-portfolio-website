@@ -68,6 +68,9 @@ sections:
         label: VSCode
         url: ''
       - type: Label
+        label: Git
+        url: ''
+      - type: Label
         label: ''
         url: ''
       - type: Label
