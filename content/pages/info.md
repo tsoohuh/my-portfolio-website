@@ -48,7 +48,8 @@ sections:
       - type: Button
         label: Nathan's CV
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1-TXJl49pMIIBQGrt-e2RoBejUO92_3eb/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
