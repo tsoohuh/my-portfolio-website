@@ -113,6 +113,9 @@ sections:
       - type: Label
         label: VSCode
       - type: Label
+        label: Git
+        url: ''
+      - type: Label
         label: Blender
       - type: Label
         label: Unity
