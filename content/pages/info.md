@@ -108,6 +108,9 @@ sections:
       - type: Label
         label: C#
       - type: Label
+        label: SQL
+        url: ''
+      - type: Label
         label: VSCode
       - type: Label
         label: Blender
