@@ -5,8 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Thesis
 description: >-
-  Developed a 2D roguelike game that incorporated MARL, MDP, and PPM to
-  dynamically adjust the difficulty depending on the player's performance. 
+  Developed a 2D roguelike game that incorporated Multi-Agent Reinforcement
+  Learning, Markov Decision Processes, and Predictive Player Modeling to
+  dynamically adjust the difficulty and weapon drops depending on the player's
+  performance. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
