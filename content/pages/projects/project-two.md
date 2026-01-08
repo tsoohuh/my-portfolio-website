@@ -47,7 +47,7 @@ bottomSections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/vrju1i20b2m91.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
