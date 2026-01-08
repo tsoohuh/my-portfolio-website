@@ -23,7 +23,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Open Github Repo
         altText: ''
         url: /
         showIcon: true
