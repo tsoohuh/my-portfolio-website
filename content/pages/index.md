@@ -42,6 +42,34 @@ sections:
       altText: Portrait of me
       caption: Caption of the image
       elementId: ''
+  - type: CtaSection
+    title: Need more info?
+    text: ''
+    actions:
+      - type: Button
+        label: Open CV
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1-TXJl49pMIIBQGrt-e2RoBejUO92_3eb/view?usp=sharing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        flexDirection: col
+        textAlign: center
   - type: LabelsSection
     title: Skills
     subtitle: What I learned so far in my journey
