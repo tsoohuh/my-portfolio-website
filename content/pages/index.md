@@ -10,38 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Hey, I'm Nathan Eduard Romero!
-    subtitle: >-
-      I am currently a senior CS student at the University of Santo Tomas -
-      College of Information and Computing Sciences. Here, I share the things
-      I'm working on, doing it with love.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Fxh1Obl2.jpg
-      altText: Portrait of me
-      caption: Caption of the image
-      elementId: ''
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
