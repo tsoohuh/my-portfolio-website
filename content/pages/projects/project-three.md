@@ -19,7 +19,7 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: Let's do this
+    title: Want to play?
     text: ''
     actions:
       - type: Button
