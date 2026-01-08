@@ -43,7 +43,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: CtaSection
-    title: Nathan's CV
+    title: Need more info?
     text: ''
     actions:
       - type: Button
