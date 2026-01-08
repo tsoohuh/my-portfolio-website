@@ -4,11 +4,7 @@ title: MV88 Ventures Inventory System
 colors: colors-a
 date: '2021-12-20'
 client: MV88 Ventures
-description: >-
-  Contributed to developing a new inventory management system for our client
-  company that tracked item quantities between their nine warehouse branches,
-  alongside the delivery status between branches and their respective merchants.
-  Couldn't have done it without my team!
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/mv88.png
