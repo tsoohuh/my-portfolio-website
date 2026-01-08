@@ -15,6 +15,6 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/dungeon.png
   altText: Project image
 ---
