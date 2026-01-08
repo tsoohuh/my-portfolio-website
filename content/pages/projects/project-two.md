@@ -25,7 +25,7 @@ bottomSections:
       - type: Button
         label: Open Github Repo
         altText: ''
-        url: /
+        url: https://github.com/tsoohuh/MV88Ventures-Inventory-Source
         showIcon: true
         icon: arrowRight
         iconPosition: right
