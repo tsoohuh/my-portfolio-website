@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dungeon Survivors Game
 colors: colors-a
-date: '2025-02-22'
+date: '2025-03-22'
 client: Thesis
 description: >-
   Developed a 2D roguelike game that incorporated Multi-Agent Reinforcement
