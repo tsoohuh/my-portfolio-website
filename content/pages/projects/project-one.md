@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'FinInsights: Finance Forecasting Dashboard'
 colors: colors-a
-date: '2021-10-15'
+date: '2022-10-15'
 client: Awesome client
 description: >-
   Dipped my toes in creating an app combining Next.js, NestJS, and a FastAPI
