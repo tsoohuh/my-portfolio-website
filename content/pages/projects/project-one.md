@@ -24,7 +24,7 @@ bottomSections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Open Github
         altText: ''
         url: https://github.com/tsoohuh/finance-forecasting-dashboard
         showIcon: true
