@@ -46,7 +46,7 @@ bottomSections:
           - pl-4
           - pr-4
         flexDirection: col
-        textAlign: center
+        textAlign: left
 ---
 
 
