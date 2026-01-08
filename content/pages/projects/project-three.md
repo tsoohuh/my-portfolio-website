@@ -25,7 +25,8 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1ssV_YNHrVC7wCnKhu7VCht7q4sxTMO7w/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
