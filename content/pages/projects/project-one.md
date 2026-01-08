@@ -32,7 +32,7 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
