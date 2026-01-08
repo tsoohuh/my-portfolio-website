@@ -18,7 +18,7 @@ sections:
       I'm working on, doing it with love.
     actions:
       - type: Button
-        label: Hire me
+        label: Open CV
         altText: ''
         url: /
         showIcon: true
