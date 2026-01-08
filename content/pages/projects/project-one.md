@@ -26,7 +26,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: https://github.com/tsoohuh/finance-forecasting-dashboard
         showIcon: true
         icon: arrowRight
         iconPosition: right
