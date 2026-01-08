@@ -20,8 +20,7 @@ media:
 bottomSections:
   - type: CtaSection
     title: Let's do this
-    text: |
-      Want to play?
+    text: ''
     actions:
       - type: Button
         label: Try it now
