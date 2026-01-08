@@ -11,9 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Hi, I'm Nathan Romero!
     subtitle: >-
       I am currently a senior CS student at the University of Santo Tomas -
       College of Information and Computing Sciences. Here, I share the things
