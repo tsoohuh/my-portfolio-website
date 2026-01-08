@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: MV88 Ventures Inventory System
 colors: colors-a
-date: '2024-11-20'
+date: '2024-09-20'
 client: MV88 Ventures
 description: >-
   Contributed to developing a new inventory management system for our client
